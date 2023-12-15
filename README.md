@@ -1,0 +1,4 @@
+- Hello, I’m Ana Carolina Follmann!
+- I'm interested in the field of IT, i'm a high school student and i'm currently studying Software Development at IFSul Sapucaia do Sul.
+- I'd like to intern in the IT area so i can gain more experience, broaden my horizons and learn from people who are already in the area.
+- You can reach me at acfollmann@gmail.com
