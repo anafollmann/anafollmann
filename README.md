@@ -1,4 +1,5 @@
 - Hello, I’m Ana Carolina Follmann!
-- I'm interested in the field of IT, i'm a high school student and i'm currently studying Software Development at IFSul Sapucaia do Sul.
-- I'd like to intern in the IT area so i can gain more experience, broaden my horizons and learn from people who are already in the area.
+- In 2025 i graduated at Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense at Software Development at a High School level, and in 2026 i enrolled in Analysis and Software Development at the same institution.
+- I've had hands on experience in data base managament, ETL, technical support and client experience.
+- I'm looking for opportunities in technical support positions. I enjoy helping users and aiding in the day-to-day of customers and colleagues. 
 - You can reach me at acfollmann@gmail.com
